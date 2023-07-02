@@ -7,6 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:name="com.example.photogallery.PhotoGalleryFragment"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    tools:layout="@layout/fragment_photo_gallery">
 
 </androidx.fragment.app.FragmentContainerView>
